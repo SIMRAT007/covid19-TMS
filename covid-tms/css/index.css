@@ -1,0 +1,16 @@
+#imgcovid
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 100px;
+}
+
+#imgcovidpre
+{
+    width:400px;
+    transform: translate(700px,-290px);
+    position: absolute;
+    
+}
+
