@@ -8,9 +8,9 @@ How to run the COVID19 Testing Management System Using PHP and MySQL
 <p>Run the script http://localhost/covid-tms</p>
 
 Admin Credential:
-<p>Username: simrat007</p>
+<p> - Username: simrat007</p>
 
-<p>Password: simrat12345</p>
+<p> - Password: simrat12345</p>
 
 
 <br>
