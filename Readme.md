@@ -12,5 +12,7 @@ Username: simrat007
 Password: simrat12345
 
 
+<br>
 
 
+<img src="Covid-19 Testing Management System.png" width="600"/>
